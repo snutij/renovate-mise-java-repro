@@ -1,0 +1,12 @@
+name: mise install
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  mise-install:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jdx/mise-action@v2
