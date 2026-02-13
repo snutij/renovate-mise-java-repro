@@ -20,4 +20,4 @@ Either:
 
 ## Link to the Renovate Issue or Discussion
 
-_TODO: add link to discussion once created_
+https://github.com/renovatebot/renovate/discussions/41159
